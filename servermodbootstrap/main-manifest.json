@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "bfa6f778fa67f5bb60f08c039d48e860db662e78bed29948ffcdb3252824f6039",
-  "clientRevision": "bfa6f778fa67f5bb60f08c039d48e860db662e78bed29948ffcdb3252824f6039",
-  "generatedAt": "2026-09-14T21:04:37Z",
+  "revision": "fa6f778fa67f5bb60f08c039d48e860db662e78bed29948ffcdb3252824f6039",
+  "clientRevision": "fa6f778fa67f5bb60f08c039d48e860db662e78bed29948ffcdb3252824f6039",
+  "generatedAt": "2026-09-14T22:30:06Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.6",
@@ -139,6 +139,17 @@
       "fileSize": 260614,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2101"
+      ]
+    },
+    {
+      "coordinate": "Azumatt-ModAge-1.0.6",
+      "namespace": "Azumatt",
+      "packageName": "ModAge",
+      "versionNumber": "1.0.6",
+      "downloadUrl": "https://thunderstore.io/package/download/Azumatt/ModAge/1.0.6/",
+      "fileSize": 1105809,
+      "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2202"
       ]
     }
   ],
