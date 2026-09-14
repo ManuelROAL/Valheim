@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "fa6f778fa67f5bb60f08c039d48e860db662bed29948ffcdb3252824f6040",
-  "clientRevision": "fa6f778fa67f5bb60f08c039d48e860db662bed29948ffcdb3252824f6040",
+  "revision": "109571f5d335caa4a8778ad5cc33e074544963af4ace36ca8d247413dcb1cab8",
+  "clientRevision": "109571f5d335caa4a8778ad5cc33e074544963af4ace36ca8d247413dcb1cab8",
   "generatedAt": "2026-09-14T22:38:21Z",
   "packages": [
     {
