@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-test",
-  "revision": "fa6f778fa67f5bb60f08c039d48e860db662e78bed29948ffcdb3252824f6037",
-  "clientRevision": "fa6f778fa67f5bb60f08c039d48e860db662e78bed29948ffcdb3252824f6037",
-  "generatedAt": "2026-09-14T20:00:00Z",
+  "revision": "fa6f778fa67f5bb60f08c039d48e860db662e78bed29948ffcdb3252824f6038",
+  "clientRevision": "fa6f778fa67f5bb60f08c039d48e860db662e78bed29948ffcdb3252824f6038",
+  "generatedAt": "2026-09-14T21:00:58Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.6",
@@ -93,18 +93,6 @@
       "fileSize": 25693,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2333"
-      ]
-    },
-    {
-      "coordinate": "MidnightMods-ValheimCommunityPatch-0.27.0",
-      "namespace": "MidnightMods",
-      "packageName": "ValheimCommunityPatch",
-      "versionNumber": "0.27.0",
-      "downloadUrl": "https://thunderstore.io/package/download/MidnightMods/ValheimCommunityPatch/0.27.0/",
-      "fileSize": 96017,
-      "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.2333",
-        "ValheimModding-Jotunn-2.27.1"
       ]
     },
     {
