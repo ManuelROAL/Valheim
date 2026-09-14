@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-test",
-  "revision": "16cd7b347b7f1b8a04b4eb5d491729e59b13d3de7c331ced0aa9b6046b17e452",
-  "clientRevision": "16cd7b347b7f1b8a04b4eb5d491729e59b13d3de7c331ced0aa9b6046b17e452",
-  "generatedAt": "2026-09-14T19:50:00Z",
+  "revision": "b34564347825fea1da4bc787a7251f97b0655cf738e1a0681c306366f201b5e5",
+  "clientRevision": "b34564347825fea1da4bc787a7251f97b0655cf738e1a0681c306366f201b5e5",
+  "generatedAt": "2026-09-14T18:06:05Z",
   "packages": [
     {
       "coordinate": "ValheimModding-Jotunn-2.30.0",
