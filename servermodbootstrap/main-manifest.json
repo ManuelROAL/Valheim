@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 2,
+  "manifestId": "manuelroal-valheim-main",
+  "revision": "bfa6f778fa67f5bb60f08c039d48e860db662e78bed29948ffcdb3252824f6039",
+  "clientRevision": "bfa6f778fa67f5bb60f08c039d48e860db662e78bed29948ffcdb3252824f6039",
+  "generatedAt": "2026-09-14T21:04:37Z",
+  "packages": [
+    {
+      "coordinate": "shudnal-ConditionalConfigSync-1.0.6",
+      "namespace": "shudnal",
+      "packageName": "ConditionalConfigSync",
+      "versionNumber": "1.0.6",
+      "downloadUrl": "https://thunderstore.io/package/download/shudnal/ConditionalConfigSync/1.0.6/",
+      "fileSize": 244882,
+      "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2350"
+      ]
+    },
+    {
+      "coordinate": "Advize-PlantEasily-2.2.0",
+      "namespace": "Advize",
+      "packageName": "PlantEasily",
+      "versionNumber": "2.2.0",
+      "downloadUrl": "https://thunderstore.io/package/download/Advize/PlantEasily/2.2.0/",
+      "fileSize": 189914,
+      "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2350"
+      ]
+    },
+    {
+      "coordinate": "cjayride-InstantMonsterLootDrop-0.7.0",
+      "namespace": "cjayride",
+      "packageName": "InstantMonsterLootDrop",
+      "versionNumber": "0.7.0",
+      "downloadUrl": "https://thunderstore.io/package/download/cjayride/InstantMonsterLootDrop/0.7.0/",
+      "fileSize": 121454,
+      "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2350"
+      ]
+    },
+    {
+      "coordinate": "Azumatt-Official_BepInEx_ConfigurationManager-18.4.1",
+      "namespace": "Azumatt",
+      "packageName": "Official_BepInEx_ConfigurationManager",
+      "versionNumber": "18.4.1",
+      "downloadUrl": "https://thunderstore.io/package/download/Azumatt/Official_BepInEx_ConfigurationManager/18.4.1/",
+      "fileSize": 105180,
+      "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2202"
+      ]
+    },
+    {
+      "coordinate": "Cartur-Carturs_Map_Pins-1.2.2",
+      "namespace": "Cartur",
+      "packageName": "Carturs_Map_Pins",
+      "versionNumber": "1.2.2",
+      "downloadUrl": "https://thunderstore.io/package/download/Cartur/Carturs_Map_Pins/1.2.2/",
+      "fileSize": 610864,
+      "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2333"
+      ]
+    },
+    {
+      "coordinate": "MSchmoecker-MultiUserChest-0.6.2",
+      "namespace": "MSchmoecker",
+      "packageName": "MultiUserChest",
+      "versionNumber": "0.6.2",
+      "downloadUrl": "https://thunderstore.io/package/download/MSchmoecker/MultiUserChest/0.6.2/",
+      "fileSize": 83062,
+      "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2350",
+        "ValheimModding-Jotunn-2.30.0"
+      ]
+    },
+    {
+      "coordinate": "Zellds-SmartCraftStorage-0.4.0",
+      "namespace": "Zellds",
+      "packageName": "SmartCraftStorage",
+      "versionNumber": "0.4.0",
+      "downloadUrl": "https://thunderstore.io/package/download/Zellds/SmartCraftStorage/0.4.0/",
+      "fileSize": 91994,
+      "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2333",
+        "ValheimModding-Jotunn-2.30.0"
+      ]
+    },
+    {
+      "coordinate": "MidnightMods-AchievementEnabler-0.3.2",
+      "namespace": "MidnightMods",
+      "packageName": "AchievementEnabler",
+      "versionNumber": "0.3.2",
+      "downloadUrl": "https://thunderstore.io/package/download/MidnightMods/AchievementEnabler/0.3.2/",
+      "fileSize": 25693,
+      "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2333"
+      ]
+    },
+    {
+      "coordinate": "RandyKnapp-EquipmentAndQuickSlots-3.1.2",
+      "namespace": "RandyKnapp",
+      "packageName": "EquipmentAndQuickSlots",
+      "versionNumber": "3.1.2",
+      "downloadUrl": "https://thunderstore.io/package/download/RandyKnapp/EquipmentAndQuickSlots/3.1.2/",
+      "fileSize": 382523,
+      "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2201",
+        "ValheimModding-Jotunn-2.29.2"
+      ]
+    },
+    {
+      "coordinate": "JereKuusela-Server_devcommands-1.113.0",
+      "namespace": "JereKuusela",
+      "packageName": "Server_devcommands",
+      "versionNumber": "1.113.0",
+      "downloadUrl": "https://thunderstore.io/package/download/JereKuusela/Server_devcommands/1.113.0/",
+      "fileSize": 305515,
+      "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2350"
+      ]
+    },
+    {
+      "coordinate": "shudnal-MyLittleUI-1.2.18",
+      "namespace": "shudnal",
+      "packageName": "MyLittleUI",
+      "versionNumber": "1.2.18",
+      "downloadUrl": "https://thunderstore.io/package/download/shudnal/MyLittleUI/1.2.18/",
+      "fileSize": 244943,
+      "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2350",
+        "shudnal-ConditionalConfigSync-1.0.5"
+      ]
+    },
+    {
+      "coordinate": "TastyChickenLegs-RecyclePlus-1.3.3",
+      "namespace": "TastyChickenLegs",
+      "packageName": "RecyclePlus",
+      "versionNumber": "1.3.3",
+      "downloadUrl": "https://thunderstore.io/package/download/TastyChickenLegs/RecyclePlus/1.3.3/",
+      "fileSize": 260614,
+      "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2101"
+      ]
+    },
+    {
+      "coordinate": "Azumatt-ModAge-1.0.6",
+      "namespace": "Azumatt",
+      "packageName": "ModAge",
+      "versionNumber": "1.0.6",
+      "downloadUrl": "https://thunderstore.io/package/download/Azumatt/ModAge/1.0.6/",
+      "fileSize": 1105809,
+      "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2202"
+      ]
+    }
+  ],
+  "configs": []
+}
