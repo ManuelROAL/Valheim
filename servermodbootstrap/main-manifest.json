@@ -140,17 +140,6 @@
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2101"
       ]
-    },
-    {
-      "coordinate": "Azumatt-ModAge-1.0.6",
-      "namespace": "Azumatt",
-      "packageName": "ModAge",
-      "versionNumber": "1.0.6",
-      "downloadUrl": "https://thunderstore.io/package/download/Azumatt/ModAge/1.0.6/",
-      "fileSize": 1105809,
-      "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.2202"
-      ]
     }
   ],
   "configs": []
