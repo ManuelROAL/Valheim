@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "fa6f778fa67f5bb60f08c039d48e860db662e78bed29948ffcdb3252824f6039",
-  "clientRevision": "fa6f778fa67f5bb60f08c039d48e860db662e78bed29948ffcdb3252824f6039",
-  "generatedAt": "2026-09-14T22:30:06Z",
+  "revision": "fa6f778fa67f5bb60f08c039d48e860db662bed29948ffcdb3252824f6040",
+  "clientRevision": "fa6f778fa67f5bb60f08c039d48e860db662bed29948ffcdb3252824f6040",
+  "generatedAt": "2026-09-14T22:38:21Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.6",
@@ -73,12 +73,12 @@
       ]
     },
     {
-      "coordinate": "Zellds-SmartCraftStorage-0.4.0",
+      "coordinate": "Zellds-SmartCraftStorage-0.4.2",
       "namespace": "Zellds",
       "packageName": "SmartCraftStorage",
-      "versionNumber": "0.4.0",
-      "downloadUrl": "https://thunderstore.io/package/download/Zellds/SmartCraftStorage/0.4.0/",
-      "fileSize": 91994,
+      "versionNumber": "0.4.2",
+      "downloadUrl": "https://thunderstore.io/package/download/Zellds/SmartCraftStorage/0.4.2/",
+      "fileSize": 92845,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2333",
         "ValheimModding-Jotunn-2.30.0"
