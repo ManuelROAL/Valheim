@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "a77086b5771b4d8aa156317c50c2ff5b0390ba8118f645c5bc2bb9ef70e0e747",
-  "clientRevision": "a77086b5771b4d8aa156317c50c2ff5b0390ba8118f645c5bc2bb9ef70e0e747",
-  "generatedAt": "2026-09-15T13:28:10.933Z",
+  "revision": "7577511049dd5eb05fd6db13d840be32ea195f9bf5dd883b65cd937e299d707d",
+  "clientRevision": "7577511049dd5eb05fd6db13d840be32ea195f9bf5dd883b65cd937e299d707d",
+  "generatedAt": "2026-09-15T14:49:58.582Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.8",
@@ -139,6 +139,17 @@
       "fileSize": 260614,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2101"
+      ]
+    },
+    {
+      "coordinate": "F1shar-SpawnSuppressionVisualizer-1.1.0",
+      "namespace": "F1shar",
+      "packageName": "SpawnSuppressionVisualizer",
+      "versionNumber": "1.1.0",
+      "downloadUrl": "https://thunderstore.io/package/download/F1shar/SpawnSuppressionVisualizer/1.1.0/",
+      "fileSize": 42172,
+      "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2202"
       ]
     }
   ],
