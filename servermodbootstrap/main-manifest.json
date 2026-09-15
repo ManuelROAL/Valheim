@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "e4f0afcfe80b45b78612dcde9375d07778c00bd5bfda4e55aea55d621c699c21",
-  "clientRevision": "e4f0afcfe80b45b78612dcde9375d07778c00bd5bfda4e55aea55d621c699c21",
-  "generatedAt": "2026-09-15T07:01:56Z",
+  "revision": "6e862738d37641baa664181694d3e8e8bb6c5820f0e64f2d8a460b607b3f5f73",
+  "clientRevision": "6e862738d37641baa664181694d3e8e8bb6c5820f0e64f2d8a460b607b3f5f73",
+  "generatedAt": "2026-09-15T13:24:13.618Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.8",
@@ -140,17 +140,7 @@
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2101"
       ]
-    },
-    {
-      "coordinate": "ontrigger-ValheimPerformanceOptimizations-1.2.2",
-      "namespace": "ontrigger",
-      "packageName": "ValheimPerformanceOptimizations",
-      "versionNumber": "1.2.2",
-      "downloadUrl": "https://thunderstore.io/package/download/ontrigger/ValheimPerformanceOptimizations/1.2.2/",
-      "fileSize": 740013,
-      "dependencies": []
     }
   ],
   "configs": []
 }
-
