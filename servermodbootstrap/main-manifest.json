@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "1ee9842367e7b7b9dc2184fffbac300cef2e91452a1b9aaf8c30aa1fa0a196d0",
-  "clientRevision": "1ee9842367e7b7b9dc2184fffbac300cef2e91452a1b9aaf8c30aa1fa0a196d0",
-  "generatedAt": "2026-09-16T00:23:07.523Z",
+  "revision": "02be25ea6a45e90814ac4ded39a82d4f9f2cd476151f3712b60b7d0a4ae425d9",
+  "clientRevision": "02be25ea6a45e90814ac4ded39a82d4f9f2cd476151f3712b60b7d0a4ae425d9",
+  "generatedAt": "2026-09-16T10:35:20.694Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.8",
@@ -28,12 +28,12 @@
       ]
     },
     {
-      "coordinate": "cjayride-InstantMonsterLootDrop-0.7.1",
+      "coordinate": "cjayride-InstantMonsterLootDrop-0.7.2",
       "namespace": "cjayride",
       "packageName": "InstantMonsterLootDrop",
-      "versionNumber": "0.7.1",
-      "downloadUrl": "https://thunderstore.io/package/download/cjayride/InstantMonsterLootDrop/0.7.1/",
-      "fileSize": 121846,
+      "versionNumber": "0.7.2",
+      "downloadUrl": "https://thunderstore.io/package/download/cjayride/InstantMonsterLootDrop/0.7.2/",
+      "fileSize": 122181,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2350"
       ]
@@ -73,14 +73,14 @@
       ]
     },
     {
-      "coordinate": "Zellds-SmartCraftStorage-0.4.2",
+      "coordinate": "Zellds-SmartCraftStorage-0.5.0",
       "namespace": "Zellds",
       "packageName": "SmartCraftStorage",
-      "versionNumber": "0.4.2",
-      "downloadUrl": "https://thunderstore.io/package/download/Zellds/SmartCraftStorage/0.4.2/",
-      "fileSize": 92845,
+      "versionNumber": "0.5.0",
+      "downloadUrl": "https://thunderstore.io/package/download/Zellds/SmartCraftStorage/0.5.0/",
+      "fileSize": 96769,
       "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.2333",
+        "denikson-BepInExPack_Valheim-5.4.2350",
         "ValheimModding-Jotunn-2.30.0"
       ]
     },
@@ -166,4 +166,3 @@
   ],
   "configs": []
 }
-
