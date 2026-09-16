@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "7577511049dd5eb05fd6db13d840be32ea195f9bf5dd883b65cd937e299d707d",
-  "clientRevision": "7577511049dd5eb05fd6db13d840be32ea195f9bf5dd883b65cd937e299d707d",
-  "generatedAt": "2026-09-15T14:49:58.582Z",
+  "revision": "1ee9842367e7b7b9dc2184fffbac300cef2e91452a1b9aaf8c30aa1fa0a196d0",
+  "clientRevision": "1ee9842367e7b7b9dc2184fffbac300cef2e91452a1b9aaf8c30aa1fa0a196d0",
+  "generatedAt": "2026-09-16T00:23:07.523Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.8",
@@ -151,7 +151,19 @@
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2202"
       ]
+    },
+    {
+      "coordinate": "Nextek-SpeedyPaths-1.0.9",
+      "namespace": "Nextek",
+      "packageName": "SpeedyPaths",
+      "versionNumber": "1.0.9",
+      "downloadUrl": "https://thunderstore.io/package/download/Nextek/SpeedyPaths/1.0.9/",
+      "fileSize": 163784,
+      "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2333"
+      ]
     }
   ],
   "configs": []
 }
+
