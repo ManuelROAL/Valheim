@@ -1,21 +1,10 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-test",
-  "revision": "b34564347825fea1da4bc787a7251f97b0655cf738e1a0681c306366f201b5e5",
-  "clientRevision": "b34564347825fea1da4bc787a7251f97b0655cf738e1a0681c306366f201b5e5",
-  "generatedAt": "2026-09-14T18:06:05Z",
+  "revision": "fa6f778fa67f5bb60f08c039d48e860db662e78bed29948ffcdb3252824f6038",
+  "clientRevision": "fa6f778fa67f5bb60f08c039d48e860db662e78bed29948ffcdb3252824f6038",
+  "generatedAt": "2026-09-14T21:00:58Z",
   "packages": [
-    {
-      "coordinate": "ValheimModding-Jotunn-2.30.0",
-      "namespace": "ValheimModding",
-      "packageName": "Jotunn",
-      "versionNumber": "2.30.0",
-      "downloadUrl": "https://thunderstore.io/package/download/ValheimModding/Jotunn/2.30.0/",
-      "fileSize": 507260,
-      "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.2333"
-      ]
-    },
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.6",
       "namespace": "shudnal",
@@ -84,12 +73,12 @@
       ]
     },
     {
-      "coordinate": "Zellds-SmartCraftStorage-0.1.3",
+      "coordinate": "Zellds-SmartCraftStorage-0.4.0",
       "namespace": "Zellds",
       "packageName": "SmartCraftStorage",
-      "versionNumber": "0.1.3",
-      "downloadUrl": "https://thunderstore.io/package/download/Zellds/SmartCraftStorage/0.1.3/",
-      "fileSize": 88621,
+      "versionNumber": "0.4.0",
+      "downloadUrl": "https://thunderstore.io/package/download/Zellds/SmartCraftStorage/0.4.0/",
+      "fileSize": 91994,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2333",
         "ValheimModding-Jotunn-2.30.0"
@@ -104,18 +93,6 @@
       "fileSize": 25693,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2333"
-      ]
-    },
-    {
-      "coordinate": "MidnightMods-ValheimCommunityPatch-0.27.0",
-      "namespace": "MidnightMods",
-      "packageName": "ValheimCommunityPatch",
-      "versionNumber": "0.27.0",
-      "downloadUrl": "https://thunderstore.io/package/download/MidnightMods/ValheimCommunityPatch/0.27.0/",
-      "fileSize": 96017,
-      "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.2333",
-        "ValheimModding-Jotunn-2.27.1"
       ]
     },
     {
@@ -165,18 +142,6 @@
       ]
     },
     {
-      "coordinate": "SpikeHimself-XPortal-1.2.25",
-      "namespace": "SpikeHimself",
-      "packageName": "XPortal",
-      "versionNumber": "1.2.25",
-      "downloadUrl": "https://thunderstore.io/package/download/SpikeHimself/XPortal/1.2.25/",
-      "fileSize": 72682,
-      "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.2333",
-        "ValheimModding-Jotunn-2.30.0"
-      ]
-    },
-    {
       "coordinate": "Azumatt-ModAge-1.0.6",
       "namespace": "Azumatt",
       "packageName": "ModAge",
@@ -186,49 +151,6 @@
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2202"
       ]
-    },
-    {
-      "coordinate": "ArgusMagnus-ServersideQoL-2.0.8",
-      "namespace": "ArgusMagnus",
-      "packageName": "ServersideQoL",
-      "versionNumber": "2.0.8",
-      "downloadUrl": "https://thunderstore.io/package/download/ArgusMagnus/ServersideQoL/2.0.8/",
-      "fileSize": 163895,
-      "dependencies": [
-        "ValheimModding-YamlDotNet-16.3.1",
-        "denikson-BepInExPack_Valheim-5.4.2333"
-      ]
-    },
-    {
-      "coordinate": "ArgusMagnus-ServersideQoL_JustSleep-2.0.0",
-      "namespace": "ArgusMagnus",
-      "packageName": "ServersideQoL_JustSleep",
-      "versionNumber": "2.0.0",
-      "downloadUrl": "https://thunderstore.io/package/download/ArgusMagnus/ServersideQoL_JustSleep/2.0.0/",
-      "fileSize": 81589,
-      "dependencies": [
-        "ArgusMagnus-ServersideQoL-2.0.0"
-      ]
-    },
-    {
-      "coordinate": "ArgusMagnus-ServersideQoL_MultiplayerTweaks-2.0.0",
-      "namespace": "ArgusMagnus",
-      "packageName": "ServersideQoL_MultiplayerTweaks",
-      "versionNumber": "2.0.0",
-      "downloadUrl": "https://thunderstore.io/package/download/ArgusMagnus/ServersideQoL_MultiplayerTweaks/2.0.0/",
-      "fileSize": 57126,
-      "dependencies": [
-        "ArgusMagnus-ServersideQoL-2.0.0"
-      ]
-    },
-    {
-      "coordinate": "ValheimModding-YamlDotNet-16.3.1",
-      "namespace": "ValheimModding",
-      "packageName": "YamlDotNet",
-      "versionNumber": "16.3.1",
-      "downloadUrl": "https://thunderstore.io/package/download/ValheimModding/YamlDotNet/16.3.1/",
-      "fileSize": 130222,
-      "dependencies": []
     }
   ],
   "configs": []
