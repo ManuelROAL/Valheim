@@ -1,0 +1,141 @@
+name: Sync production Valheim mods
+
+on:
+  schedule:
+    # 05:10 UTC: after the 06:00 Europe/Madrid verified backup/restart.
+    - cron: "10 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update existing packages from Thunderstore
+        run: |
+          python3 <<'PY'
+          import copy
+          import datetime as dt
+          import hashlib
+          import io
+          import json
+          import re
+          import urllib.parse
+          import urllib.request
+          import zipfile
+          from pathlib import Path
+
+          MANIFEST = Path("servermodbootstrap/main-manifest-production.json")
+          API = "https://thunderstore.io/api/experimental/package/"
+
+
+          def version_key(value):
+              value = str(value).lstrip("vV")
+              main, _, pre = value.partition("-")
+              numbers = []
+              for part in main.split("."):
+                  match = re.match(r"\d+", part)
+                  numbers.append(int(match.group()) if match else 0)
+              while len(numbers) < 4:
+                  numbers.append(0)
+              prerelease = tuple(
+                  (0, int(item)) if item.isdigit() else (1, item)
+                  for item in pre.split(".")
+              ) if pre else ()
+              return tuple(numbers), (1, ()) if not pre else (0, prerelease)
+
+
+          def latest_package(namespace, name):
+              url = (
+                  API
+                  + urllib.parse.quote(namespace, safe="")
+                  + "/"
+                  + urllib.parse.quote(name, safe="")
+                  + "/?community=valheim"
+              )
+              request = urllib.request.Request(
+                  url, headers={"User-Agent": "valheim-manifest-sync/1.0"}
+              )
+              with urllib.request.urlopen(request, timeout=45) as response:
+                  package = json.load(response)
+              latest = package.get("latest")
+              if not latest or not latest.get("version_number"):
+                  raise RuntimeError(f"No active release found for {namespace}-{name}")
+              return latest
+
+
+          manifest = json.loads(MANIFEST.read_text(encoding="utf-8"))
+          updated = []
+          for package in manifest.get("packages", []):
+              namespace = package["namespace"]
+              name = package["packageName"]
+              latest = latest_package(namespace, name)
+              if version_key(latest["version_number"]) <= version_key(package["versionNumber"]):
+                  continue
+
+              download = urllib.request.Request(
+                  latest["download_url"], headers={"User-Agent": "valheim-manifest-sync/1.0"}
+              )
+              with urllib.request.urlopen(download, timeout=90) as response:
+                  archive_bytes = response.read()
+
+              with zipfile.ZipFile(io.BytesIO(archive_bytes)) as archive:
+                  package_manifest = json.loads(archive.read("manifest.json"))
+              if (
+                  package_manifest.get("name") != name
+                  or package_manifest.get("version_number") != latest["version_number"]
+              ):
+                  raise RuntimeError(f"Downloaded archive validation failed for {namespace}-{name}")
+
+              version = latest["version_number"]
+              package.update(
+                  coordinate=f"{namespace}-{name}-{version}",
+                  versionNumber=version,
+                  downloadUrl=latest["download_url"],
+                  fileSize=len(archive_bytes),
+                  dependencies=package_manifest.get("dependencies", []),
+              )
+              updated.append(f"{namespace}-{name}: {version}")
+
+          if updated:
+              manifest["generatedAt"] = (
+                  dt.datetime.now(dt.timezone.utc)
+                  .replace(microsecond=0)
+                  .isoformat()
+                  .replace("+00:00", "Z")
+              )
+              revision_input = copy.deepcopy(manifest)
+              revision_input["revision"] = ""
+              revision_input["clientRevision"] = ""
+              revision = hashlib.sha256(
+                  json.dumps(
+                      revision_input,
+                      ensure_ascii=False,
+                      sort_keys=True,
+                      separators=(",", ":"),
+                  ).encode("utf-8")
+              ).hexdigest()
+              manifest["revision"] = revision
+              manifest["clientRevision"] = revision
+              MANIFEST.write_text(
+                  json.dumps(manifest, ensure_ascii=False, indent=2) + "\n",
+                  encoding="utf-8",
+              )
+              print("\n".join(updated))
+          PY
+
+      - name: Commit changed manifest
+        run: |
+          if git diff --quiet -- servermodbootstrap/main-manifest-production.json; then
+            echo "No package updates found."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add servermodbootstrap/main-manifest-production.json
+          git commit -m "chore(mods): sync production manifest"
+          git push
