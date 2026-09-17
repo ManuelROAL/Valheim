@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "23317147adab315cbcad0bb64caca38c5bb6c137f9864958d8b08065f5e550ae",
-  "clientRevision": "23317147adab315cbcad0bb64caca38c5bb6c137f9864958d8b08065f5e550ae",
-  "generatedAt": "2026-09-17T10:23:31Z",
+  "revision": "a9b995fd7ccc6763f508c1fbf750358f32cec837590463099cbee6c8a6562e89",
+  "clientRevision": "a9b995fd7ccc6763f508c1fbf750358f32cec837590463099cbee6c8a6562e89",
+  "generatedAt": "2026-09-17T11:54:20Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.8",
@@ -173,15 +173,6 @@
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2350"
       ]
-    },
-    {
-      "coordinate": "MaxGerman-Skip_Intro_Video-1.0.2",
-      "namespace": "MaxGerman",
-      "packageName": "Skip_Intro_Video",
-      "versionNumber": "1.0.2",
-      "downloadUrl": "https://thunderstore.io/package/download/MaxGerman/Skip_Intro_Video/1.0.2/",
-      "fileSize": 144290,
-      "dependencies": []
     }
   ],
   "configs": []
