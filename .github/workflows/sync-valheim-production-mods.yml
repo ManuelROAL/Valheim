@@ -1,6 +1,9 @@
 name: Sync production Valheim mods
 
 on:
+  push:
+    paths:
+      - ".github/workflows/sync-valheim-production-mods.yml"
   schedule:
     # 05:10 UTC: after the 06:00 Europe/Madrid verified backup/restart.
     - cron: "10 5 * * *"
