@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "47a7b6e40d1104d029aa60ae86789ae0a40e2ad88b5ac16dfa809a8ed8da9553",
-  "clientRevision": "47a7b6e40d1104d029aa60ae86789ae0a40e2ad88b5ac16dfa809a8ed8da9553",
-  "generatedAt": "2026-09-17T09:24:56Z",
+  "revision": "51829e2cc8e868987936104a32888bbce5e3b5bb00862e28f506d55061f77b7b",
+  "clientRevision": "51829e2cc8e868987936104a32888bbce5e3b5bb00862e28f506d55061f77b7b",
+  "generatedAt": "2026-09-17T10:13:05Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.8",
@@ -150,6 +150,28 @@
       "fileSize": 787619,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2333"
+      ]
+    },
+    {
+      "coordinate": "MagiCorp-RememberServerPassword-1.2.4",
+      "namespace": "MagiCorp",
+      "packageName": "RememberServerPassword",
+      "versionNumber": "1.2.4",
+      "downloadUrl": "https://thunderstore.io/package/download/MagiCorp/RememberServerPassword/1.2.4/",
+      "fileSize": 34187,
+      "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2350"
+      ]
+    },
+    {
+      "coordinate": "Landoria-FirstPerson-1.0.10",
+      "namespace": "Landoria",
+      "packageName": "FirstPerson",
+      "versionNumber": "1.0.10",
+      "downloadUrl": "https://thunderstore.io/package/download/Landoria/FirstPerson/1.0.10/",
+      "fileSize": 26252,
+      "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2350"
       ]
     }
   ],
