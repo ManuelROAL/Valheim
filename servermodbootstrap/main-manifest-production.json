@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "aaf2ce9eaa383e8cd91a33f88e9bff21b7332aea5a5684fc43db972d7a60e940",
-  "clientRevision": "aaf2ce9eaa383e8cd91a33f88e9bff21b7332aea5a5684fc43db972d7a60e940",
-  "generatedAt": "2026-09-16T11:30:00Z",
+  "revision": "47a7b6e40d1104d029aa60ae86789ae0a40e2ad88b5ac16dfa809a8ed8da9553",
+  "clientRevision": "47a7b6e40d1104d029aa60ae86789ae0a40e2ad88b5ac16dfa809a8ed8da9553",
+  "generatedAt": "2026-09-17T09:24:56Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.8",
@@ -62,26 +62,26 @@
       ]
     },
     {
-      "coordinate": "Zellds-SmartCraftStorage-0.5.0",
+      "coordinate": "Zellds-SmartCraftStorage-0.6.0",
       "namespace": "Zellds",
       "packageName": "SmartCraftStorage",
-      "versionNumber": "0.5.0",
-      "downloadUrl": "https://thunderstore.io/package/download/Zellds/SmartCraftStorage/0.5.0/",
-      "fileSize": 96769,
+      "versionNumber": "0.6.0",
+      "downloadUrl": "https://thunderstore.io/package/download/Zellds/SmartCraftStorage/0.6.0/",
+      "fileSize": 98248,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2350",
         "ValheimModding-Jotunn-2.30.0"
       ]
     },
     {
-      "coordinate": "MidnightMods-AchievementEnabler-0.3.2",
+      "coordinate": "MidnightMods-AchievementEnabler-0.3.3",
       "namespace": "MidnightMods",
       "packageName": "AchievementEnabler",
-      "versionNumber": "0.3.2",
-      "downloadUrl": "https://thunderstore.io/package/download/MidnightMods/AchievementEnabler/0.3.2/",
-      "fileSize": 25693,
+      "versionNumber": "0.3.3",
+      "downloadUrl": "https://thunderstore.io/package/download/MidnightMods/AchievementEnabler/0.3.3/",
+      "fileSize": 26088,
       "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.2333"
+        "denikson-BepInExPack_Valheim-5.4.2350"
       ]
     },
     {
