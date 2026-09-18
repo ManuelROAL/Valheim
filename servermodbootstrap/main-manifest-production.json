@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "a9b995fd7ccc6763f508c1fbf750358f32cec837590463099cbee6c8a6562e89",
-  "clientRevision": "a9b995fd7ccc6763f508c1fbf750358f32cec837590463099cbee6c8a6562e89",
-  "generatedAt": "2026-09-17T11:54:20Z",
+  "revision": "8843b849270abe020187655771dff80c7b22a92b1dc6dffe32e42162dfa0beba",
+  "clientRevision": "8843b849270abe020187655771dff80c7b22a92b1dc6dffe32e42162dfa0beba",
+  "generatedAt": "2026-09-18T08:13:18Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.8",
@@ -28,12 +28,12 @@
       ]
     },
     {
-      "coordinate": "cjayride-InstantMonsterLootDrop-0.7.2",
+      "coordinate": "cjayride-InstantMonsterLootDrop-0.8.0",
       "namespace": "cjayride",
       "packageName": "InstantMonsterLootDrop",
-      "versionNumber": "0.7.2",
-      "downloadUrl": "https://thunderstore.io/package/download/cjayride/InstantMonsterLootDrop/0.7.2/",
-      "fileSize": 122181,
+      "versionNumber": "0.8.0",
+      "downloadUrl": "https://thunderstore.io/package/download/cjayride/InstantMonsterLootDrop/0.8.0/",
+      "fileSize": 155540,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2350"
       ]
@@ -108,12 +108,12 @@
       ]
     },
     {
-      "coordinate": "shudnal-MyLittleUI-1.2.19",
+      "coordinate": "shudnal-MyLittleUI-1.2.20",
       "namespace": "shudnal",
       "packageName": "MyLittleUI",
-      "versionNumber": "1.2.19",
-      "downloadUrl": "https://thunderstore.io/package/download/shudnal/MyLittleUI/1.2.19/",
-      "fileSize": 253841,
+      "versionNumber": "1.2.20",
+      "downloadUrl": "https://thunderstore.io/package/download/shudnal/MyLittleUI/1.2.20/",
+      "fileSize": 254030,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2350",
         "shudnal-ConditionalConfigSync-1.0.5"
