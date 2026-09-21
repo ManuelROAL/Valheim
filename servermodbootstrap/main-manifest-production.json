@@ -1,17 +1,17 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "6cd4c59ff9566238bb2bcaec3ed31617a92a29108be42b13b99b7622a64f0a5d",
-  "clientRevision": "6cd4c59ff9566238bb2bcaec3ed31617a92a29108be42b13b99b7622a64f0a5d",
-  "generatedAt": "2026-09-20T08:33:23Z",
+  "revision": "a29f3120dedf3568ba00c27da965da886ff63030ed99f0d97a3cc560d777c0a6",
+  "clientRevision": "a29f3120dedf3568ba00c27da965da886ff63030ed99f0d97a3cc560d777c0a6",
+  "generatedAt": "2026-09-21T08:54:05Z",
   "packages": [
     {
-      "coordinate": "shudnal-ConditionalConfigSync-1.0.8",
+      "coordinate": "shudnal-ConditionalConfigSync-1.0.9",
       "namespace": "shudnal",
       "packageName": "ConditionalConfigSync",
-      "versionNumber": "1.0.8",
-      "downloadUrl": "https://thunderstore.io/package/download/shudnal/ConditionalConfigSync/1.0.8/",
-      "fileSize": 245380,
+      "versionNumber": "1.0.9",
+      "downloadUrl": "https://thunderstore.io/package/download/shudnal/ConditionalConfigSync/1.0.9/",
+      "fileSize": 250060,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2350"
       ]
@@ -62,12 +62,12 @@
       ]
     },
     {
-      "coordinate": "Zellds-SmartCraftStorage-0.6.0",
+      "coordinate": "Zellds-SmartCraftStorage-0.7.0",
       "namespace": "Zellds",
       "packageName": "SmartCraftStorage",
-      "versionNumber": "0.6.0",
-      "downloadUrl": "https://thunderstore.io/package/download/Zellds/SmartCraftStorage/0.6.0/",
-      "fileSize": 98248,
+      "versionNumber": "0.7.0",
+      "downloadUrl": "https://thunderstore.io/package/download/Zellds/SmartCraftStorage/0.7.0/",
+      "fileSize": 101280,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2350",
         "ValheimModding-Jotunn-2.30.0"
@@ -108,24 +108,24 @@
       ]
     },
     {
-      "coordinate": "shudnal-MyLittleUI-1.2.23",
+      "coordinate": "shudnal-MyLittleUI-1.2.24",
       "namespace": "shudnal",
       "packageName": "MyLittleUI",
-      "versionNumber": "1.2.23",
-      "downloadUrl": "https://thunderstore.io/package/download/shudnal/MyLittleUI/1.2.23/",
-      "fileSize": 258932,
+      "versionNumber": "1.2.24",
+      "downloadUrl": "https://thunderstore.io/package/download/shudnal/MyLittleUI/1.2.24/",
+      "fileSize": 264097,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2350",
-        "shudnal-ConditionalConfigSync-1.0.5"
+        "shudnal-ConditionalConfigSync-1.0.9"
       ]
     },
     {
-      "coordinate": "TastyChickenLegs-RecyclePlus-1.3.3",
+      "coordinate": "TastyChickenLegs-RecyclePlus-1.3.5",
       "namespace": "TastyChickenLegs",
       "packageName": "RecyclePlus",
-      "versionNumber": "1.3.3",
-      "downloadUrl": "https://thunderstore.io/package/download/TastyChickenLegs/RecyclePlus/1.3.3/",
-      "fileSize": 260614,
+      "versionNumber": "1.3.5",
+      "downloadUrl": "https://thunderstore.io/package/download/TastyChickenLegs/RecyclePlus/1.3.5/",
+      "fileSize": 260825,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2101"
       ]
