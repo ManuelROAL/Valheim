@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "d68ff0a6b76138ac011078e3b8973b78de1a6456ebaedcc9ab188ec38caee37f",
-  "clientRevision": "d68ff0a6b76138ac011078e3b8973b78de1a6456ebaedcc9ab188ec38caee37f",
-  "generatedAt": "2026-09-22T12:33:38Z",
+  "revision": "ca434971b46c35c98e52b19b45630bd188fd602128bd706bb89fe5ae9b3a7fb7",
+  "clientRevision": "ca434971b46c35c98e52b19b45630bd188fd602128bd706bb89fe5ae9b3a7fb7",
+  "generatedAt": "2026-09-22T15:32:06Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.9",
