@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "16e876c1858de1b78307637a1147706a17485922de3861d71c54af8a6806af83",
-  "clientRevision": "16e876c1858de1b78307637a1147706a17485922de3861d71c54af8a6806af83",
-  "generatedAt": "2026-09-22T08:30:22Z",
+  "revision": "d68ff0a6b76138ac011078e3b8973b78de1a6456ebaedcc9ab188ec38caee37f",
+  "clientRevision": "d68ff0a6b76138ac011078e3b8973b78de1a6456ebaedcc9ab188ec38caee37f",
+  "generatedAt": "2026-09-22T12:33:38Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.9",
@@ -170,6 +170,17 @@
       "versionNumber": "1.0.12",
       "downloadUrl": "https://thunderstore.io/package/download/Landoria/FirstPerson/1.0.12/",
       "fileSize": 24945,
+      "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2350"
+      ]
+    },
+    {
+      "coordinate": "Nosferatu-SmoothServer-0.6.1",
+      "namespace": "Nosferatu",
+      "packageName": "SmoothServer",
+      "versionNumber": "0.6.1",
+      "downloadUrl": "https://thunderstore.io/package/download/Nosferatu/SmoothServer/0.6.1/",
+      "fileSize": 820449,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2350"
       ]
