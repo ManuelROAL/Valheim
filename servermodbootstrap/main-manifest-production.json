@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "d61299caad4fd62fece872df71baf68a8aa0c31fd1e53f8611b58535bf71d3f7",
-  "clientRevision": "d61299caad4fd62fece872df71baf68a8aa0c31fd1e53f8611b58535bf71d3f7",
-  "generatedAt": "2026-09-23T09:02:45Z",
+  "revision": "e2ee182a6e5e1d324728d0303342f53d6348449fe5e453ba1da70be7fef56b26",
+  "clientRevision": "e2ee182a6e5e1d324728d0303342f53d6348449fe5e453ba1da70be7fef56b26",
+  "generatedAt": "2026-09-23T09:28:44Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.9",
@@ -94,6 +94,15 @@
         "denikson-BepInExPack_Valheim-5.4.2201",
         "ValheimModding-Jotunn-2.29.2"
       ]
+    },
+    {
+      "coordinate": "ValheimModding-YamlDotNet-16.3.1",
+      "namespace": "ValheimModding",
+      "packageName": "YamlDotNet",
+      "versionNumber": "16.3.1",
+      "downloadUrl": "https://thunderstore.io/package/download/ValheimModding/YamlDotNet/16.3.1/",
+      "fileSize": 130222,
+      "dependencies": []
     },
     {
       "coordinate": "Vapok-ShieldMeBruh-2.1.1",
