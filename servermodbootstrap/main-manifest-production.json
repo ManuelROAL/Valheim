@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "e2ee182a6e5e1d324728d0303342f53d6348449fe5e453ba1da70be7fef56b26",
-  "clientRevision": "e2ee182a6e5e1d324728d0303342f53d6348449fe5e453ba1da70be7fef56b26",
-  "generatedAt": "2026-09-23T09:28:44Z",
+  "revision": "8429c29da60869ba65c3dc98b16ea2356560a6d57a752f4cfcfc868baac68e10",
+  "clientRevision": "8429c29da60869ba65c3dc98b16ea2356560a6d57a752f4cfcfc868baac68e10",
+  "generatedAt": "2026-09-23T09:33:08Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.9",
@@ -172,6 +172,17 @@
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2350",
         "ValheimModding-Jotunn-2.30.1"
+      ]
+    },
+    {
+      "coordinate": "ComfyMods-ComfyAutoRepair-1.1.0",
+      "namespace": "ComfyMods",
+      "packageName": "ComfyAutoRepair",
+      "versionNumber": "1.1.0",
+      "downloadUrl": "https://thunderstore.io/package/download/ComfyMods/ComfyAutoRepair/1.1.0/",
+      "fileSize": 65821,
+      "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2202"
       ]
     },
     {
