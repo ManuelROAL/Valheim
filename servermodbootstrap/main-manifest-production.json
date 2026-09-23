@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "4e7a0773e0d25d01e03d5f37cf5c6a1ab4d747ed7172f6d34b2eed4f3c3e83c1",
-  "clientRevision": "4e7a0773e0d25d01e03d5f37cf5c6a1ab4d747ed7172f6d34b2eed4f3c3e83c1",
-  "generatedAt": "2026-09-23T08:08:11Z",
+  "revision": "219986bc20476264b6671fe9b63d9c98cf1eacdeb1cf2a402b225e9a982e98ce",
+  "clientRevision": "219986bc20476264b6671fe9b63d9c98cf1eacdeb1cf2a402b225e9a982e98ce",
+  "generatedAt": "2026-09-23T08:26:45Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.9",
@@ -182,6 +182,17 @@
       "versionNumber": "1.0.12",
       "downloadUrl": "https://thunderstore.io/package/download/Landoria/FirstPerson/1.0.12/",
       "fileSize": 24945,
+      "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2350"
+      ]
+    },
+    {
+      "coordinate": "blacks7ar-OneHandWeaponOnTheHip-1.0.2",
+      "namespace": "blacks7ar",
+      "packageName": "OneHandWeaponOnTheHip",
+      "versionNumber": "1.0.2",
+      "downloadUrl": "https://thunderstore.io/package/download/blacks7ar/OneHandWeaponOnTheHip/1.0.2/",
+      "fileSize": 131144,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2350"
       ]
