@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "2f78d9ab15a741e56d7dd484e3f527c0db4c3ae0d7228633ab36184094de1c2b",
-  "clientRevision": "2f78d9ab15a741e56d7dd484e3f527c0db4c3ae0d7228633ab36184094de1c2b",
-  "generatedAt": "2026-09-23T08:37:35Z",
+  "revision": "d61299caad4fd62fece872df71baf68a8aa0c31fd1e53f8611b58535bf71d3f7",
+  "clientRevision": "d61299caad4fd62fece872df71baf68a8aa0c31fd1e53f8611b58535bf71d3f7",
+  "generatedAt": "2026-09-23T09:02:45Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.9",
@@ -154,14 +154,15 @@
       ]
     },
     {
-      "coordinate": "Cartur-Carturs_Map_Pins-1.5.0",
-      "namespace": "Cartur",
-      "packageName": "Carturs_Map_Pins",
-      "versionNumber": "1.5.0",
-      "downloadUrl": "https://thunderstore.io/package/download/Cartur/Carturs_Map_Pins/1.5.0/",
-      "fileSize": 797904,
+      "coordinate": "Searica-DiscoveryPins-0.4.1",
+      "namespace": "Searica",
+      "packageName": "DiscoveryPins",
+      "versionNumber": "0.4.1",
+      "downloadUrl": "https://thunderstore.io/package/download/Searica/DiscoveryPins/0.4.1/",
+      "fileSize": 37627,
       "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.2333"
+        "denikson-BepInExPack_Valheim-5.4.2350",
+        "ValheimModding-Jotunn-2.30.1"
       ]
     },
     {
