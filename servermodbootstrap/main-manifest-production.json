@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "219986bc20476264b6671fe9b63d9c98cf1eacdeb1cf2a402b225e9a982e98ce",
-  "clientRevision": "219986bc20476264b6671fe9b63d9c98cf1eacdeb1cf2a402b225e9a982e98ce",
-  "generatedAt": "2026-09-23T08:26:45Z",
+  "revision": "586b876c021e3a7cf2134310c0fab20c46496b9cf9d5fb5c07ba7b966768283b",
+  "clientRevision": "586b876c021e3a7cf2134310c0fab20c46496b9cf9d5fb5c07ba7b966768283b",
+  "generatedAt": "2026-09-23T08:32:31Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.9",
@@ -154,12 +154,12 @@
       ]
     },
     {
-      "coordinate": "Cartur-Carturs_Map_Pins-1.4.0",
+      "coordinate": "Cartur-Carturs_Map_Pins-1.5.0",
       "namespace": "Cartur",
       "packageName": "Carturs_Map_Pins",
-      "versionNumber": "1.4.0",
-      "downloadUrl": "https://thunderstore.io/package/download/Cartur/Carturs_Map_Pins/1.4.0/",
-      "fileSize": 794908,
+      "versionNumber": "1.5.0",
+      "downloadUrl": "https://thunderstore.io/package/download/Cartur/Carturs_Map_Pins/1.5.0/",
+      "fileSize": 797904,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2333"
       ]
