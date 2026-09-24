@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "8429c29da60869ba65c3dc98b16ea2356560a6d57a752f4cfcfc868baac68e10",
-  "clientRevision": "8429c29da60869ba65c3dc98b16ea2356560a6d57a752f4cfcfc868baac68e10",
-  "generatedAt": "2026-09-23T09:33:08Z",
+  "revision": "6cc051c91538c81d96ae3f01f7658abac491ea029b7dc8edfd77321ef20eddb3",
+  "clientRevision": "6cc051c91538c81d96ae3f01f7658abac491ea029b7dc8edfd77321ef20eddb3",
+  "generatedAt": "2026-09-24T08:25:13Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.9",
@@ -17,12 +17,12 @@
       ]
     },
     {
-      "coordinate": "Advize-PlantEasily-2.2.1",
+      "coordinate": "Advize-PlantEasily-2.2.2",
       "namespace": "Advize",
       "packageName": "PlantEasily",
-      "versionNumber": "2.2.1",
-      "downloadUrl": "https://thunderstore.io/package/download/Advize/PlantEasily/2.2.1/",
-      "fileSize": 189929,
+      "versionNumber": "2.2.2",
+      "downloadUrl": "https://thunderstore.io/package/download/Advize/PlantEasily/2.2.2/",
+      "fileSize": 189968,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2350"
       ]
@@ -62,12 +62,12 @@
       ]
     },
     {
-      "coordinate": "Morda-StoreAndCraft-1.3.32",
+      "coordinate": "Morda-StoreAndCraft-1.3.39",
       "namespace": "Morda",
       "packageName": "StoreAndCraft",
-      "versionNumber": "1.3.32",
-      "downloadUrl": "https://thunderstore.io/package/download/Morda/StoreAndCraft/1.3.32/",
-      "fileSize": 315672,
+      "versionNumber": "1.3.39",
+      "downloadUrl": "https://thunderstore.io/package/download/Morda/StoreAndCraft/1.3.39/",
+      "fileSize": 2558061,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2350"
       ]
