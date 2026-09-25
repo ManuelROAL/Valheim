@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "b621b11a34ca7b7b4687b2548fea3d4eb7d2cbdd8fd773a54302b52d1dde3442",
-  "clientRevision": "b621b11a34ca7b7b4687b2548fea3d4eb7d2cbdd8fd773a54302b52d1dde3442",
-  "generatedAt": "2026-09-25T08:47:24Z",
+  "revision": "69daaffa2b3ef5c1a96e143d9ae4b24f5cc2dca56a97553275fa078f680dc9e6",
+  "clientRevision": "69daaffa2b3ef5c1a96e143d9ae4b24f5cc2dca56a97553275fa078f680dc9e6",
+  "generatedAt": "2026-09-25T17:16:56Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.9",
@@ -62,14 +62,15 @@
       ]
     },
     {
-      "coordinate": "Morda-StoreAndCraft-1.3.41",
-      "namespace": "Morda",
-      "packageName": "StoreAndCraft",
-      "versionNumber": "1.3.41",
-      "downloadUrl": "https://thunderstore.io/package/download/Morda/StoreAndCraft/1.3.41/",
-      "fileSize": 2559723,
+      "coordinate": "Zellds-SmartCraftStorage-0.10.0",
+      "namespace": "Zellds",
+      "packageName": "SmartCraftStorage",
+      "versionNumber": "0.10.0",
+      "downloadUrl": "https://thunderstore.io/package/download/Zellds/SmartCraftStorage/0.10.0/",
+      "fileSize": 103625,
       "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.2350"
+        "denikson-BepInExPack_Valheim-5.4.2350",
+        "ValheimModding-Jotunn-2.30.0"
       ]
     },
     {
