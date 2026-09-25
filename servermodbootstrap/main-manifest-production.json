@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "6cc051c91538c81d96ae3f01f7658abac491ea029b7dc8edfd77321ef20eddb3",
-  "clientRevision": "6cc051c91538c81d96ae3f01f7658abac491ea029b7dc8edfd77321ef20eddb3",
-  "generatedAt": "2026-09-24T08:25:13Z",
+  "revision": "b621b11a34ca7b7b4687b2548fea3d4eb7d2cbdd8fd773a54302b52d1dde3442",
+  "clientRevision": "b621b11a34ca7b7b4687b2548fea3d4eb7d2cbdd8fd773a54302b52d1dde3442",
+  "generatedAt": "2026-09-25T08:47:24Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.9",
@@ -62,12 +62,12 @@
       ]
     },
     {
-      "coordinate": "Morda-StoreAndCraft-1.3.39",
+      "coordinate": "Morda-StoreAndCraft-1.3.41",
       "namespace": "Morda",
       "packageName": "StoreAndCraft",
-      "versionNumber": "1.3.39",
-      "downloadUrl": "https://thunderstore.io/package/download/Morda/StoreAndCraft/1.3.39/",
-      "fileSize": 2558061,
+      "versionNumber": "1.3.41",
+      "downloadUrl": "https://thunderstore.io/package/download/Morda/StoreAndCraft/1.3.41/",
+      "fileSize": 2559723,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2350"
       ]
@@ -129,12 +129,12 @@
       ]
     },
     {
-      "coordinate": "shudnal-MyLittleUI-1.2.25",
+      "coordinate": "shudnal-MyLittleUI-1.2.26",
       "namespace": "shudnal",
       "packageName": "MyLittleUI",
-      "versionNumber": "1.2.25",
-      "downloadUrl": "https://thunderstore.io/package/download/shudnal/MyLittleUI/1.2.25/",
-      "fileSize": 264127,
+      "versionNumber": "1.2.26",
+      "downloadUrl": "https://thunderstore.io/package/download/shudnal/MyLittleUI/1.2.26/",
+      "fileSize": 264340,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2350",
         "shudnal-ConditionalConfigSync-1.0.9"
@@ -197,14 +197,14 @@
       ]
     },
     {
-      "coordinate": "Landoria-FirstPerson-1.0.12",
+      "coordinate": "Landoria-FirstPerson-1.0.13",
       "namespace": "Landoria",
       "packageName": "FirstPerson",
-      "versionNumber": "1.0.12",
-      "downloadUrl": "https://thunderstore.io/package/download/Landoria/FirstPerson/1.0.12/",
-      "fileSize": 24945,
+      "versionNumber": "1.0.13",
+      "downloadUrl": "https://thunderstore.io/package/download/Landoria/FirstPerson/1.0.13/",
+      "fileSize": 25066,
       "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.2350"
+        "denikson-BepInExPack_Valheim-5.4.2351"
       ]
     },
     {
