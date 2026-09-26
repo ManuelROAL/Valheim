@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "69daaffa2b3ef5c1a96e143d9ae4b24f5cc2dca56a97553275fa078f680dc9e6",
-  "clientRevision": "69daaffa2b3ef5c1a96e143d9ae4b24f5cc2dca56a97553275fa078f680dc9e6",
-  "generatedAt": "2026-09-25T17:16:56Z",
+  "revision": "bb3ec2bd1004b0290e4d1b81647ae4f09c09b969760ef64a47f0ab252ba53d50",
+  "clientRevision": "bb3ec2bd1004b0290e4d1b81647ae4f09c09b969760ef64a47f0ab252ba53d50",
+  "generatedAt": "2026-09-26T08:34:03Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.9",
@@ -28,12 +28,12 @@
       ]
     },
     {
-      "coordinate": "cjayride-InstantMonsterLootDrop-0.8.0",
+      "coordinate": "cjayride-InstantMonsterLootDrop-0.8.1",
       "namespace": "cjayride",
       "packageName": "InstantMonsterLootDrop",
-      "versionNumber": "0.8.0",
-      "downloadUrl": "https://thunderstore.io/package/download/cjayride/InstantMonsterLootDrop/0.8.0/",
-      "fileSize": 155540,
+      "versionNumber": "0.8.1",
+      "downloadUrl": "https://thunderstore.io/package/download/cjayride/InstantMonsterLootDrop/0.8.1/",
+      "fileSize": 127163,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2350"
       ]
@@ -119,14 +119,14 @@
       ]
     },
     {
-      "coordinate": "JereKuusela-Server_devcommands-1.113.0",
+      "coordinate": "JereKuusela-Server_devcommands-1.115.0",
       "namespace": "JereKuusela",
       "packageName": "Server_devcommands",
-      "versionNumber": "1.113.0",
-      "downloadUrl": "https://thunderstore.io/package/download/JereKuusela/Server_devcommands/1.113.0/",
-      "fileSize": 305515,
+      "versionNumber": "1.115.0",
+      "downloadUrl": "https://thunderstore.io/package/download/JereKuusela/Server_devcommands/1.115.0/",
+      "fileSize": 313458,
       "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.2350"
+        "denikson-BepInExPack_Valheim-5.4.2351"
       ]
     },
     {
