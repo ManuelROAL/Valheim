@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "9d94e1e63c15097a37f51f47a73ed00b67be5a8371439f7db340c52a9e71c283",
-  "clientRevision": "9d94e1e63c15097a37f51f47a73ed00b67be5a8371439f7db340c52a9e71c283",
-  "generatedAt": "2026-09-27T09:13:22Z",
+  "revision": "f6002a35984152fa185d7c6d2ac82d5ab08791e359f21bb237264ba0d3d80ecc",
+  "clientRevision": "f6002a35984152fa185d7c6d2ac82d5ab08791e359f21bb237264ba0d3d80ecc",
+  "generatedAt": "2026-09-28T09:43:22Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.9",
@@ -198,12 +198,12 @@
       ]
     },
     {
-      "coordinate": "Landoria-FirstPerson-1.0.13",
+      "coordinate": "Landoria-FirstPerson-1.0.14",
       "namespace": "Landoria",
       "packageName": "FirstPerson",
-      "versionNumber": "1.0.13",
-      "downloadUrl": "https://thunderstore.io/package/download/Landoria/FirstPerson/1.0.13/",
-      "fileSize": 25066,
+      "versionNumber": "1.0.14",
+      "downloadUrl": "https://thunderstore.io/package/download/Landoria/FirstPerson/1.0.14/",
+      "fileSize": 24574,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2351"
       ]
