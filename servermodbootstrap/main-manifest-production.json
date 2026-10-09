@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "447f315498c002d75d68c76d4444959b396ec77f1746e981afdbb668fe8b56f1",
-  "clientRevision": "447f315498c002d75d68c76d4444959b396ec77f1746e981afdbb668fe8b56f1",
-  "generatedAt": "2026-10-08T10:32:01Z",
+  "revision": "050ffe426b60abd95290f160c61ed7e125da0142ab338fd8d2674d32c2f5cb3e",
+  "clientRevision": "050ffe426b60abd95290f160c61ed7e125da0142ab338fd8d2674d32c2f5cb3e",
+  "generatedAt": "2026-10-09T10:30:30Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.10",
@@ -130,14 +130,14 @@
       ]
     },
     {
-      "coordinate": "shudnal-MyLittleUI-1.2.26",
+      "coordinate": "shudnal-MyLittleUI-1.2.29",
       "namespace": "shudnal",
       "packageName": "MyLittleUI",
-      "versionNumber": "1.2.26",
-      "downloadUrl": "https://thunderstore.io/package/download/shudnal/MyLittleUI/1.2.26/",
-      "fileSize": 264340,
+      "versionNumber": "1.2.29",
+      "downloadUrl": "https://thunderstore.io/package/download/shudnal/MyLittleUI/1.2.29/",
+      "fileSize": 265265,
       "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.2350",
+        "denikson-BepInExPack_Valheim-5.4.2351",
         "shudnal-ConditionalConfigSync-1.0.9"
       ]
     },
