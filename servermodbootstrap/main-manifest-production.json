@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "050ffe426b60abd95290f160c61ed7e125da0142ab338fd8d2674d32c2f5cb3e",
-  "clientRevision": "050ffe426b60abd95290f160c61ed7e125da0142ab338fd8d2674d32c2f5cb3e",
-  "generatedAt": "2026-10-09T10:30:30Z",
+  "revision": "9067b995668dd07f5f962f0f18ace169764ef91708499eeadcbbd6033502bbda",
+  "clientRevision": "9067b995668dd07f5f962f0f18ace169764ef91708499eeadcbbd6033502bbda",
+  "generatedAt": "2026-10-10T09:47:57Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.10",
@@ -74,12 +74,12 @@
       ]
     },
     {
-      "coordinate": "MidnightMods-AchievementEnabler-0.4.1",
+      "coordinate": "MidnightMods-AchievementEnabler-0.5.0",
       "namespace": "MidnightMods",
       "packageName": "AchievementEnabler",
-      "versionNumber": "0.4.1",
-      "downloadUrl": "https://thunderstore.io/package/download/MidnightMods/AchievementEnabler/0.4.1/",
-      "fileSize": 33275,
+      "versionNumber": "0.5.0",
+      "downloadUrl": "https://thunderstore.io/package/download/MidnightMods/AchievementEnabler/0.5.0/",
+      "fileSize": 36359,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2350"
       ]
