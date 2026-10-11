@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "9067b995668dd07f5f962f0f18ace169764ef91708499eeadcbbd6033502bbda",
-  "clientRevision": "9067b995668dd07f5f962f0f18ace169764ef91708499eeadcbbd6033502bbda",
-  "generatedAt": "2026-10-10T09:47:57Z",
+  "revision": "b423f6bb21005e44ab2ceb01a478dd60471c2835aab05647b57e962de314feea",
+  "clientRevision": "b423f6bb21005e44ab2ceb01a478dd60471c2835aab05647b57e962de314feea",
+  "generatedAt": "2026-10-11T09:58:01Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.10",
@@ -164,12 +164,12 @@
       ]
     },
     {
-      "coordinate": "Searica-DiscoveryPins-0.4.1",
+      "coordinate": "Searica-DiscoveryPins-0.5.0",
       "namespace": "Searica",
       "packageName": "DiscoveryPins",
-      "versionNumber": "0.4.1",
-      "downloadUrl": "https://thunderstore.io/package/download/Searica/DiscoveryPins/0.4.1/",
-      "fileSize": 37627,
+      "versionNumber": "0.5.0",
+      "downloadUrl": "https://thunderstore.io/package/download/Searica/DiscoveryPins/0.5.0/",
+      "fileSize": 38245,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2350",
         "ValheimModding-Jotunn-2.30.1"
