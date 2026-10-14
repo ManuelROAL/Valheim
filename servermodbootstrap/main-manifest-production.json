@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "cce1e3b7b2f67b087b98cdd4ac5e3ef904e19b9db7f46561142b070450cb7624",
-  "clientRevision": "cce1e3b7b2f67b087b98cdd4ac5e3ef904e19b9db7f46561142b070450cb7624",
-  "generatedAt": "2026-10-13T10:32:19Z",
+  "revision": "d2380d7f2702e9b69a64f49e6a49e219294daf646593c3a771f457bd99beaf3f",
+  "clientRevision": "d2380d7f2702e9b69a64f49e6a49e219294daf646593c3a771f457bd99beaf3f",
+  "generatedAt": "2026-10-14T08:40:49Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.10",
@@ -74,12 +74,12 @@
       ]
     },
     {
-      "coordinate": "MidnightMods-AchievementEnabler-0.5.0",
+      "coordinate": "MidnightMods-AchievementEnabler-0.5.1",
       "namespace": "MidnightMods",
       "packageName": "AchievementEnabler",
-      "versionNumber": "0.5.0",
-      "downloadUrl": "https://thunderstore.io/package/download/MidnightMods/AchievementEnabler/0.5.0/",
-      "fileSize": 36359,
+      "versionNumber": "0.5.1",
+      "downloadUrl": "https://thunderstore.io/package/download/MidnightMods/AchievementEnabler/0.5.1/",
+      "fileSize": 38428,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2350"
       ]
@@ -130,26 +130,26 @@
       ]
     },
     {
-      "coordinate": "shudnal-MyLittleUI-1.2.30",
+      "coordinate": "shudnal-MyLittleUI-1.2.31",
       "namespace": "shudnal",
       "packageName": "MyLittleUI",
-      "versionNumber": "1.2.30",
-      "downloadUrl": "https://thunderstore.io/package/download/shudnal/MyLittleUI/1.2.30/",
-      "fileSize": 270141,
+      "versionNumber": "1.2.31",
+      "downloadUrl": "https://thunderstore.io/package/download/shudnal/MyLittleUI/1.2.31/",
+      "fileSize": 270622,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2351",
         "shudnal-ConditionalConfigSync-1.0.9"
       ]
     },
     {
-      "coordinate": "TastyChickenLegs-RecyclePlus-1.3.7",
+      "coordinate": "TastyChickenLegs-RecyclePlus-1.3.8",
       "namespace": "TastyChickenLegs",
       "packageName": "RecyclePlus",
-      "versionNumber": "1.3.7",
-      "downloadUrl": "https://thunderstore.io/package/download/TastyChickenLegs/RecyclePlus/1.3.7/",
-      "fileSize": 260930,
+      "versionNumber": "1.3.8",
+      "downloadUrl": "https://thunderstore.io/package/download/TastyChickenLegs/RecyclePlus/1.3.8/",
+      "fileSize": 261421,
       "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.2101"
+        "denikson-BepInExPack_Valheim-5.4.2350"
       ]
     },
     {
