@@ -1,17 +1,17 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "d2380d7f2702e9b69a64f49e6a49e219294daf646593c3a771f457bd99beaf3f",
-  "clientRevision": "d2380d7f2702e9b69a64f49e6a49e219294daf646593c3a771f457bd99beaf3f",
-  "generatedAt": "2026-10-14T08:40:49Z",
+  "revision": "c3b7a2a73335363b39b973b20fa073a3d5c1be4f068c47ade71a14ec1dc5a2db",
+  "clientRevision": "c3b7a2a73335363b39b973b20fa073a3d5c1be4f068c47ade71a14ec1dc5a2db",
+  "generatedAt": "2026-10-16T08:07:51Z",
   "packages": [
     {
-      "coordinate": "shudnal-ConditionalConfigSync-1.0.10",
+      "coordinate": "shudnal-ConditionalConfigSync-1.0.11",
       "namespace": "shudnal",
       "packageName": "ConditionalConfigSync",
-      "versionNumber": "1.0.10",
-      "downloadUrl": "https://thunderstore.io/package/download/shudnal/ConditionalConfigSync/1.0.10/",
-      "fileSize": 254476,
+      "versionNumber": "1.0.11",
+      "downloadUrl": "https://thunderstore.io/package/download/shudnal/ConditionalConfigSync/1.0.11/",
+      "fileSize": 254611,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2350"
       ]
@@ -164,12 +164,12 @@
       ]
     },
     {
-      "coordinate": "Searica-DiscoveryPins-0.5.1",
+      "coordinate": "Searica-DiscoveryPins-0.6.0",
       "namespace": "Searica",
       "packageName": "DiscoveryPins",
-      "versionNumber": "0.5.1",
-      "downloadUrl": "https://thunderstore.io/package/download/Searica/DiscoveryPins/0.5.1/",
-      "fileSize": 38890,
+      "versionNumber": "0.6.0",
+      "downloadUrl": "https://thunderstore.io/package/download/Searica/DiscoveryPins/0.6.0/",
+      "fileSize": 40289,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2350",
         "ValheimModding-Jotunn-2.30.1"
@@ -198,12 +198,12 @@
       ]
     },
     {
-      "coordinate": "Landoria-FirstPerson-1.0.14",
+      "coordinate": "Landoria-FirstPerson-1.0.16",
       "namespace": "Landoria",
       "packageName": "FirstPerson",
-      "versionNumber": "1.0.14",
-      "downloadUrl": "https://thunderstore.io/package/download/Landoria/FirstPerson/1.0.14/",
-      "fileSize": 24574,
+      "versionNumber": "1.0.16",
+      "downloadUrl": "https://thunderstore.io/package/download/Landoria/FirstPerson/1.0.16/",
+      "fileSize": 24608,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2351"
       ]
