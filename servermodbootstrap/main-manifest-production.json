@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "c3b7a2a73335363b39b973b20fa073a3d5c1be4f068c47ade71a14ec1dc5a2db",
-  "clientRevision": "c3b7a2a73335363b39b973b20fa073a3d5c1be4f068c47ade71a14ec1dc5a2db",
-  "generatedAt": "2026-10-16T08:07:51Z",
+  "revision": "901077d9f97046ca40902516d11b1952d79747f9fa907f30a5c1dea946665b68",
+  "clientRevision": "901077d9f97046ca40902516d11b1952d79747f9fa907f30a5c1dea946665b68",
+  "generatedAt": "2026-10-17T07:45:17Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.11",
@@ -106,12 +106,12 @@
       "dependencies": []
     },
     {
-      "coordinate": "Vapok-ShieldMeBruh-2.1.4",
+      "coordinate": "Vapok-ShieldMeBruh-2.1.5",
       "namespace": "Vapok",
       "packageName": "ShieldMeBruh",
-      "versionNumber": "2.1.4",
-      "downloadUrl": "https://thunderstore.io/package/download/Vapok/ShieldMeBruh/2.1.4/",
-      "fileSize": 472680,
+      "versionNumber": "2.1.5",
+      "downloadUrl": "https://thunderstore.io/package/download/Vapok/ShieldMeBruh/2.1.5/",
+      "fileSize": 461741,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2351",
         "ValheimModding-Jotunn-2.30.2",
