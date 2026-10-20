@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "901077d9f97046ca40902516d11b1952d79747f9fa907f30a5c1dea946665b68",
-  "clientRevision": "901077d9f97046ca40902516d11b1952d79747f9fa907f30a5c1dea946665b68",
-  "generatedAt": "2026-10-17T07:45:17Z",
+  "revision": "abbcf640cb5e882c851b343a70292195ebeaf7ac1f4492e3c764d931cc1eda93",
+  "clientRevision": "abbcf640cb5e882c851b343a70292195ebeaf7ac1f4492e3c764d931cc1eda93",
+  "generatedAt": "2026-10-20T08:29:37Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.11",
@@ -142,12 +142,12 @@
       ]
     },
     {
-      "coordinate": "TastyChickenLegs-RecyclePlus-1.3.8",
+      "coordinate": "TastyChickenLegs-RecyclePlus-1.3.9",
       "namespace": "TastyChickenLegs",
       "packageName": "RecyclePlus",
-      "versionNumber": "1.3.8",
-      "downloadUrl": "https://thunderstore.io/package/download/TastyChickenLegs/RecyclePlus/1.3.8/",
-      "fileSize": 261421,
+      "versionNumber": "1.3.9",
+      "downloadUrl": "https://thunderstore.io/package/download/TastyChickenLegs/RecyclePlus/1.3.9/",
+      "fileSize": 261587,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2350"
       ]
