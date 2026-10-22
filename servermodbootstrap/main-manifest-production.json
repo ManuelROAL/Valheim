@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "abbcf640cb5e882c851b343a70292195ebeaf7ac1f4492e3c764d931cc1eda93",
-  "clientRevision": "abbcf640cb5e882c851b343a70292195ebeaf7ac1f4492e3c764d931cc1eda93",
-  "generatedAt": "2026-10-20T08:29:37Z",
+  "revision": "a4d73a6e8b8051cf0b8fdae6933ab9b4fe496c1df65dce5565c19f567a31b153",
+  "clientRevision": "a4d73a6e8b8051cf0b8fdae6933ab9b4fe496c1df65dce5565c19f567a31b153",
+  "generatedAt": "2026-10-22T08:34:11Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.11",
@@ -119,12 +119,12 @@
       ]
     },
     {
-      "coordinate": "JereKuusela-Server_devcommands-1.115.0",
+      "coordinate": "JereKuusela-Server_devcommands-1.116.0",
       "namespace": "JereKuusela",
       "packageName": "Server_devcommands",
-      "versionNumber": "1.115.0",
-      "downloadUrl": "https://thunderstore.io/package/download/JereKuusela/Server_devcommands/1.115.0/",
-      "fileSize": 313458,
+      "versionNumber": "1.116.0",
+      "downloadUrl": "https://thunderstore.io/package/download/JereKuusela/Server_devcommands/1.116.0/",
+      "fileSize": 318016,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2351"
       ]
