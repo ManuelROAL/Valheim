@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "a4d73a6e8b8051cf0b8fdae6933ab9b4fe496c1df65dce5565c19f567a31b153",
-  "clientRevision": "a4d73a6e8b8051cf0b8fdae6933ab9b4fe496c1df65dce5565c19f567a31b153",
-  "generatedAt": "2026-10-22T08:34:11Z",
+  "revision": "21031d17203a49e6ac9e98693f0c849d000e0a08154bec9f6d7bd459355d72ff",
+  "clientRevision": "21031d17203a49e6ac9e98693f0c849d000e0a08154bec9f6d7bd459355d72ff",
+  "generatedAt": "2026-10-25T08:22:42Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.11",
@@ -17,12 +17,12 @@
       ]
     },
     {
-      "coordinate": "Advize-PlantEasily-2.3.0",
+      "coordinate": "Advize-PlantEasily-2.3.1",
       "namespace": "Advize",
       "packageName": "PlantEasily",
-      "versionNumber": "2.3.0",
-      "downloadUrl": "https://thunderstore.io/package/download/Advize/PlantEasily/2.3.0/",
-      "fileSize": 193662,
+      "versionNumber": "2.3.1",
+      "downloadUrl": "https://thunderstore.io/package/download/Advize/PlantEasily/2.3.1/",
+      "fileSize": 194035,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2351"
       ]
