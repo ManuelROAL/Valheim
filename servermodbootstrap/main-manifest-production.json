@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "e4970c8f2e3939339be67fdb4cd692e1675eeffa85d683a6a1d51134cb582397",
-  "clientRevision": "e4970c8f2e3939339be67fdb4cd692e1675eeffa85d683a6a1d51134cb582397",
-  "generatedAt": "2026-10-28T09:36:56Z",
+  "revision": "7ae1c71cb33a38b25fbdc660adfad20206d4a8ba745cb4cb3cadee12a349296c",
+  "clientRevision": "7ae1c71cb33a38b25fbdc660adfad20206d4a8ba745cb4cb3cadee12a349296c",
+  "generatedAt": "2026-10-29T09:55:16Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.11",
@@ -28,14 +28,14 @@
       ]
     },
     {
-      "coordinate": "cjayride-InstantMonsterLootDrop-0.8.2",
+      "coordinate": "cjayride-InstantMonsterLootDrop-0.8.3",
       "namespace": "cjayride",
       "packageName": "InstantMonsterLootDrop",
-      "versionNumber": "0.8.2",
-      "downloadUrl": "https://thunderstore.io/package/download/cjayride/InstantMonsterLootDrop/0.8.2/",
-      "fileSize": 129702,
+      "versionNumber": "0.8.3",
+      "downloadUrl": "https://thunderstore.io/package/download/cjayride/InstantMonsterLootDrop/0.8.3/",
+      "fileSize": 130247,
       "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.2350"
+        "denikson-BepInExPack_Valheim-5.4.2360"
       ]
     },
     {
@@ -74,14 +74,14 @@
       ]
     },
     {
-      "coordinate": "MidnightMods-AchievementEnabler-0.5.1",
+      "coordinate": "MidnightMods-AchievementEnabler-0.5.2",
       "namespace": "MidnightMods",
       "packageName": "AchievementEnabler",
-      "versionNumber": "0.5.1",
-      "downloadUrl": "https://thunderstore.io/package/download/MidnightMods/AchievementEnabler/0.5.1/",
-      "fileSize": 38428,
+      "versionNumber": "0.5.2",
+      "downloadUrl": "https://thunderstore.io/package/download/MidnightMods/AchievementEnabler/0.5.2/",
+      "fileSize": 38445,
       "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.2350"
+        "denikson-BepInExPack_Valheim-5.4.2351"
       ]
     },
     {
