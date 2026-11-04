@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "04d6992f434c3413922fd839ec34d85e4a59c22602900797f1f06e96f2d0f060",
-  "clientRevision": "04d6992f434c3413922fd839ec34d85e4a59c22602900797f1f06e96f2d0f060",
-  "generatedAt": "2026-10-30T09:58:05Z",
+  "revision": "730d162cb07566bc0914c133eb39ed8ece55118654737d28e678554474d5163e",
+  "clientRevision": "730d162cb07566bc0914c133eb39ed8ece55118654737d28e678554474d5163e",
+  "generatedAt": "2026-11-04T21:44:47Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.11",
@@ -217,6 +217,28 @@
       "fileSize": 820449,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2350"
+      ]
+    },
+    {
+      "coordinate": "falconnn-NoScrollWardrobes-0.2.0",
+      "namespace": "falconnn",
+      "packageName": "NoScrollWardrobes",
+      "versionNumber": "0.2.0",
+      "downloadUrl": "https://thunderstore.io/package/download/falconnn/NoScrollWardrobes/0.2.0/",
+      "fileSize": 8266,
+      "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2351"
+      ]
+    },
+    {
+      "coordinate": "Cartur-Carturs_Map_Pins-2.3.0",
+      "namespace": "Cartur",
+      "packageName": "Carturs_Map_Pins",
+      "versionNumber": "2.3.0",
+      "downloadUrl": "https://thunderstore.io/package/download/Cartur/Carturs_Map_Pins/2.3.0/",
+      "fileSize": 985051,
+      "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2333"
       ]
     }
   ],
