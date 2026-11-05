@@ -164,18 +164,6 @@
       ]
     },
     {
-      "coordinate": "Searica-DiscoveryPins-0.6.0",
-      "namespace": "Searica",
-      "packageName": "DiscoveryPins",
-      "versionNumber": "0.6.0",
-      "downloadUrl": "https://thunderstore.io/package/download/Searica/DiscoveryPins/0.6.0/",
-      "fileSize": 40289,
-      "dependencies": [
-        "denikson-BepInExPack_Valheim-5.4.2350",
-        "ValheimModding-Jotunn-2.30.1"
-      ]
-    },
-    {
       "coordinate": "ComfyMods-ComfyAutoRepair-1.1.0",
       "namespace": "ComfyMods",
       "packageName": "ComfyAutoRepair",
