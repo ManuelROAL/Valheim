@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "7e34efa90fc74134106ebeaea3a44aac352e9336447a1261cc84c5a29fe04e4c",
-  "clientRevision": "7e34efa90fc74134106ebeaea3a44aac352e9336447a1261cc84c5a29fe04e4c",
-  "generatedAt": "2026-11-05T10:50:24Z",
+  "revision": "a0ffc06775d7327a8e441f68431293acf7f2a01a08c5426aa1fa731fe69acf1b",
+  "clientRevision": "a0ffc06775d7327a8e441f68431293acf7f2a01a08c5426aa1fa731fe69acf1b",
+  "generatedAt": "2026-11-05T17:23:59Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.11",
@@ -225,6 +225,17 @@
       "versionNumber": "2.3.0",
       "downloadUrl": "https://thunderstore.io/package/download/Cartur/Carturs_Map_Pins/2.3.0/",
       "fileSize": 985051,
+      "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2333"
+      ]
+    },
+    {
+      "coordinate": "Cartur-Carturs_Follow_Command-1.0.6",
+      "namespace": "Cartur",
+      "packageName": "Carturs_Follow_Command",
+      "versionNumber": "1.0.6",
+      "downloadUrl": "https://thunderstore.io/package/download/Cartur/Carturs_Follow_Command/1.0.6/",
+      "fileSize": 132133,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2333"
       ]
