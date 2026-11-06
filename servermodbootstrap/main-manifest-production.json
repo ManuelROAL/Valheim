@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "a0ffc06775d7327a8e441f68431293acf7f2a01a08c5426aa1fa731fe69acf1b",
-  "clientRevision": "a0ffc06775d7327a8e441f68431293acf7f2a01a08c5426aa1fa731fe69acf1b",
-  "generatedAt": "2026-11-05T17:23:59Z",
+  "revision": "0dd02e6e6830157f6ff420e5d88154e2a893ee9ec09b3fc4940812947a043af5",
+  "clientRevision": "0dd02e6e6830157f6ff420e5d88154e2a893ee9ec09b3fc4940812947a043af5",
+  "generatedAt": "2026-11-06T10:49:36Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.11",
@@ -62,12 +62,12 @@
       ]
     },
     {
-      "coordinate": "Zellds-SmartCraftStorage-0.12.1",
+      "coordinate": "Zellds-SmartCraftStorage-0.12.2",
       "namespace": "Zellds",
       "packageName": "SmartCraftStorage",
-      "versionNumber": "0.12.1",
-      "downloadUrl": "https://thunderstore.io/package/download/Zellds/SmartCraftStorage/0.12.1/",
-      "fileSize": 106577,
+      "versionNumber": "0.12.2",
+      "downloadUrl": "https://thunderstore.io/package/download/Zellds/SmartCraftStorage/0.12.2/",
+      "fileSize": 106789,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2350",
         "ValheimModding-Jotunn-2.30.0"
@@ -219,12 +219,12 @@
       ]
     },
     {
-      "coordinate": "Cartur-Carturs_Map_Pins-2.3.0",
+      "coordinate": "Cartur-Carturs_Map_Pins-2.4.0",
       "namespace": "Cartur",
       "packageName": "Carturs_Map_Pins",
-      "versionNumber": "2.3.0",
-      "downloadUrl": "https://thunderstore.io/package/download/Cartur/Carturs_Map_Pins/2.3.0/",
-      "fileSize": 985051,
+      "versionNumber": "2.4.0",
+      "downloadUrl": "https://thunderstore.io/package/download/Cartur/Carturs_Map_Pins/2.4.0/",
+      "fileSize": 988763,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2333"
       ]
