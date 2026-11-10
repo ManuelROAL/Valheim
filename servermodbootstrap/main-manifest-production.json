@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "0dd02e6e6830157f6ff420e5d88154e2a893ee9ec09b3fc4940812947a043af5",
-  "clientRevision": "0dd02e6e6830157f6ff420e5d88154e2a893ee9ec09b3fc4940812947a043af5",
-  "generatedAt": "2026-11-06T10:49:36Z",
+  "revision": "5e28a132bfff53ddeb0b652c62e4b0fc4f9c0aebcee874f6b3c095b7b0709fe9",
+  "clientRevision": "5e28a132bfff53ddeb0b652c62e4b0fc4f9c0aebcee874f6b3c095b7b0709fe9",
+  "generatedAt": "2026-11-10T11:07:37Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.11",
@@ -85,12 +85,12 @@
       ]
     },
     {
-      "coordinate": "RandyKnapp-EquipmentAndQuickSlots-3.2.0",
+      "coordinate": "RandyKnapp-EquipmentAndQuickSlots-3.2.1",
       "namespace": "RandyKnapp",
       "packageName": "EquipmentAndQuickSlots",
-      "versionNumber": "3.2.0",
-      "downloadUrl": "https://thunderstore.io/package/download/RandyKnapp/EquipmentAndQuickSlots/3.2.0/",
-      "fileSize": 490644,
+      "versionNumber": "3.2.1",
+      "downloadUrl": "https://thunderstore.io/package/download/RandyKnapp/EquipmentAndQuickSlots/3.2.1/",
+      "fileSize": 494479,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2360",
         "ValheimModding-Jotunn-2.30.2"
@@ -219,12 +219,12 @@
       ]
     },
     {
-      "coordinate": "Cartur-Carturs_Map_Pins-2.4.0",
+      "coordinate": "Cartur-Carturs_Map_Pins-2.5.0",
       "namespace": "Cartur",
       "packageName": "Carturs_Map_Pins",
-      "versionNumber": "2.4.0",
-      "downloadUrl": "https://thunderstore.io/package/download/Cartur/Carturs_Map_Pins/2.4.0/",
-      "fileSize": 988763,
+      "versionNumber": "2.5.0",
+      "downloadUrl": "https://thunderstore.io/package/download/Cartur/Carturs_Map_Pins/2.5.0/",
+      "fileSize": 997975,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2333"
       ]
