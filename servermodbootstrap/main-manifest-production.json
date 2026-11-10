@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
   "manifestId": "manuelroal-valheim-main",
-  "revision": "5e28a132bfff53ddeb0b652c62e4b0fc4f9c0aebcee874f6b3c095b7b0709fe9",
-  "clientRevision": "5e28a132bfff53ddeb0b652c62e4b0fc4f9c0aebcee874f6b3c095b7b0709fe9",
-  "generatedAt": "2026-11-10T11:07:37Z",
+  "revision": "e0e46af2b6d0fe826b7c4cb7dc1938b71e27735004d601ff005a8d8565fbcd81",
+  "clientRevision": "e0e46af2b6d0fe826b7c4cb7dc1938b71e27735004d601ff005a8d8565fbcd81",
+  "generatedAt": "2026-11-10T20:16:58Z",
   "packages": [
     {
       "coordinate": "shudnal-ConditionalConfigSync-1.0.11",
@@ -238,6 +238,17 @@
       "fileSize": 132133,
       "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2333"
+      ]
+    },
+    {
+      "coordinate": "bukett-TameableAnimals-1.2.0",
+      "namespace": "bukett",
+      "packageName": "TameableAnimals",
+      "versionNumber": "1.2.0",
+      "downloadUrl": "https://thunderstore.io/package/download/bukett/TameableAnimals/1.2.0/",
+      "fileSize": 93323,
+      "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2351"
       ]
     }
   ],
